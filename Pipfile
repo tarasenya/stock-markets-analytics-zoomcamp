@@ -13,6 +13,7 @@ matplotlib = "*"
 beautifulsoup4 = "*"
 numpy = "*"
 quandl = "*"
+eurostat = "*"
 
 [dev-packages]
 
