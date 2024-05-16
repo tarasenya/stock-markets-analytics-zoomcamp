@@ -15,6 +15,7 @@ numpy = "*"
 quandl = "*"
 eurostat = "*"
 pyarrow = "*"
+gdown = "*"
 
 [dev-packages]
 
