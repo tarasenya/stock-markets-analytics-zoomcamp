@@ -16,6 +16,7 @@ quandl = "*"
 eurostat = "*"
 pyarrow = "*"
 gdown = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
